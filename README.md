@@ -1,6 +1,6 @@
-# Customer Subscription Trend Analysis and Churn Prediction
+# Application Subscription Trend Analysis and Churn Prediction
 
-This project aims to analyze customer subscription trends and predict churn using machine learning models. We explore key features influencing customer retention and develop a predictive model to identify customers who are likely to churn. The repository contains the Python code for the machine learning model as well as a Tableau dashboard visualizing key trends.
+This project aims to analyze Application subscription trends and predict churn using machine learning models. We explore key features influencing customer retention and develop a predictive model to identify customers who are likely to churn. The repository contains the Python code for the machine learning model as well as a Tableau dashboard visualizing key trends.
 
 ## 1. Project Overview
 
@@ -56,9 +56,13 @@ The dashboard provides a clear visualization of customer behavior and key driver
 - Required libraries: `pandas`, `numpy`, `sklearn`, `imblearn`, `matplotlib`, etc.
 - Tableau for visualizations
 
-### Installation
+## 5. Results and Conclusion
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/customer-churn-prediction.git
-   cd customer-churn-prediction
+- **Model Performance**: The model achieved a **70% accuracy** after feature engineering and balancing the dataset.
+- **Insights**: The model highlighted that subscription tenure, total revenue, and subscription type were key factors influencing customer churn.
+- **Visualizations**: Tableau dashboard provides a detailed view of customer segments and churn behavior, allowing business users to interpret trends easily.
+
+## 6. Future Work
+- **Model Improvements**: Further model tuning can be done to improve recall for churned customers.
+- **New Features**: Explore additional features such as customer engagement metrics to enhance predictions.
+- **Deployment**: Implement model deployment using Flask or Django for real-time churn prediction.
