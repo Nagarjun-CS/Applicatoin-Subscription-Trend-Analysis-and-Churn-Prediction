@@ -33,7 +33,7 @@ A decision tree-based classification model was developed to predict customer chu
 
 ## 3. Files in This Repository
 
-### 3.1 Python ML Code (`churn_prediction_model.py`)
+### 3.1 Python ML Code (`Application Subscription Trend Analysis and Churn Prediction.ipynb`)
 This Python script contains the full code for:
 - Data preprocessing and feature engineering.
 - Model building, training, and evaluation (including SMOTE).
@@ -41,7 +41,7 @@ This Python script contains the full code for:
 
 You can run the code to reproduce the results and experiment with different models and parameters.
 
-### 3.2 Tableau Dashboard (`tableau_dashboard.png`)
+### 3.2 Tableau Dashboard (`Dashboard.png`)
 This is a screenshot of the Tableau dashboard that visualizes key customer insights, such as:
 - Subscription trends across different demographics.
 - Churn rates by subscription type, device, and region.
