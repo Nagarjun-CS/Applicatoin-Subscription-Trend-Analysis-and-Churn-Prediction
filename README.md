@@ -33,7 +33,7 @@ A decision tree-based classification model was developed to predict customer chu
 
 ## 3. Files in This Repository
 
-### 3.1 Python ML Code (`Application Subscription Trend Analysis and Churn Prediction.ipynb`)
+### 3.1 Python ML Code (`Application_Subscription_Trend_Analysis_and_Churn_Prediction.ipynb`)
 This Python script contains the full code for:
 - Data preprocessing and feature engineering.
 - Model building, training, and evaluation (including SMOTE).
