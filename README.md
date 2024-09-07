@@ -47,6 +47,9 @@ This is a screenshot of the Tableau dashboard that visualizes key customer insig
 - Churn rates by subscription type, device, and region.
 - Total revenue distribution across customer segments.
 
+### 3.3 Dataset (Application_Userbase.csv)
+This file contains the dataset used for the project. To use this file, upload it to your own Google Colab environment and update the file path in the Python code to point to the location of this dataset. This will allow you to run the analysis seamlessly on your own setup.
+
 The dashboard provides a clear visualization of customer behavior and key drivers of churn.
 
 ## 4. Getting Started
